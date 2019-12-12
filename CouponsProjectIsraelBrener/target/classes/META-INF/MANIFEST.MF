@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: CouponsProjectIsraelBrener
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Israel Brener
+Implementation-Vendor-Id: com.israel.coupons
+Build-Jdk: 1.8.0_221
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/CouponsProjectIsraelBrener
+Created-By: Maven Integration for Eclipse
+
